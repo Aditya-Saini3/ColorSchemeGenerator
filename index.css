@@ -24,13 +24,13 @@ header {
 }
 
 #colorPicker {
-    height: 40px;
+    height: 7vh;
     cursor: pointer;    
 }
 
 #colorType {
-    min-width: 200px;
-    height: 30px;
+    width: 45%;
+    height: 6vh;
     margin: 12px;
     padding: 3px 13px;
     font-family: 'Inter', sans-serif;
@@ -46,10 +46,10 @@ header {
 
 #getColor-btn {
     font-family: 'Inter', sans-serif;
-    width: 123px;
+    width: 80px;
     height: 30px;
     font-weight: 500;
-    font-size: 12px;
+    font-size: 70%;
     background: #3D4B60;
     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
     border-radius: 4px;
